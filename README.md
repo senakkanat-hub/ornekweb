@@ -1,0 +1,2 @@
+# ornekweb
+Örnek web sayfası
